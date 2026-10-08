@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-10-08T11:29:51.837Z",
+  "lastSynced": "2026-10-08T11:30:43.365Z",
   "problems": {
     "Q0.4": {
       "questionId": "Q0.4",
@@ -12,6 +12,17 @@
         "c"
       ],
       "lastSolvedAt": "2026-10-08T11:29:51.837Z"
+    },
+    "Q0.3": {
+      "questionId": "Q0.3",
+      "title": "Print Percent Symbols",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-3-print-percent-symbols",
+      "languages": [
+        "c"
+      ],
+      "lastSolvedAt": "2026-10-08T11:30:43.365Z"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-10-08T11:29:36.674Z",
+  "lastSynced": "2026-10-08T11:29:51.837Z",
   "problems": {
     "Q0.4": {
       "questionId": "Q0.4",
@@ -11,7 +11,7 @@
       "languages": [
         "c"
       ],
-      "lastSolvedAt": "2026-10-08T11:29:36.674Z"
+      "lastSolvedAt": "2026-10-08T11:29:51.837Z"
     }
   }
 }
